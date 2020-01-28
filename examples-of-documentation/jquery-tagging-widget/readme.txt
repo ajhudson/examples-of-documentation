@@ -1,0 +1,1 @@
+Please note: this is a non-functioning jQuery widget as it was dependent on integration with a ColdFusion application. This is to merely demonstrate my style of coding.
